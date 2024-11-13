@@ -67,7 +67,7 @@ git push origin feature/AmazingFeature
 5. Open a pull request
 
 ### Contact
-**Gauri Kangutkar**
+**Gauri Kangutkar**  
 **Email: kangutkargauri9205@gmail.com**
 
 
